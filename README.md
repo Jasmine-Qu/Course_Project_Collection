@@ -34,7 +34,7 @@ Daniel is a young professional, who is currently considering purchasing either a
 One pressing issue faced by taxi operators is the over-supply in downtown area and the insufficient demand within its surrounding areas during peak hours. Our report aimed to help the operators proactively allocate their idle vehicles from downtown to the demanding areas. We selected both the linear ARIMA hybrid model and regression tree as the baseline to predict region demands using weather information, and to optimize the dispatch strategy under the network flow problem structure by utilizing the predicted demands. 
 
 ## Project6-Football-Analytics
-### Topic: Integrated Vehicle Pre-allocation Model
+### Topic: Football Analytics-Build the Dream Squad
 **Project group member: Hao Ruoxin, Nicole Lee Zhi Ying, Liu Xinyu, Zhang Yuxuan**
 
 This report is written in the shoes of football club managers and aims to use both on-field and off-field statistics to build a dream squad consisting of the most competent players to date. The business task can be viewed as a candidate-position assignment problem in the field of optimization research. We solved the optimization problem under two different scenarios – with an unlimited budget and with a budget constraint respectively. To give an accurate estimation of key parameters in the optimization formula such as player market value and the cost of position transition, we will first predict the most suitable position for a certain player using classification and then forecast his expected wage using regression. Finally, with the predicted values, we will optimise the objective function with corresponding constraints to find our dream squad.
