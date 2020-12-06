@@ -27,7 +27,7 @@ This project is based on one simple experiment designed to encourage visitor to 
 
 Daniel is a young professional, who is currently considering purchasing either a HDB unit or private property (e.g., apartment/condo) for a 3-year investment. In this project, we aim to develop a predictive model for candidate site selection to help Daniel understand SG property market and maximize his return on investment, i.e., % gain in 3 years.
 
-## Project5-Vichle-Demand-Forecast
+## Project5-Vehicle-Demand-Forecast
 ### Topic: Integrated Vehicle Pre-allocation Model
 **Project group member: Kan Yan Zhe, Li Xinlin, Liu Xinyu**
 
