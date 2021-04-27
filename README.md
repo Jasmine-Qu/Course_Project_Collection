@@ -44,3 +44,9 @@ This project is in the shoes of football club managers and aims to use both on-f
 **Project group member: Chen Yiqiu, Hao Ruoxin, Lin Yijiang, Mi Jiale, Qu Mingyu**
 
 This project is about prediction popularity of an online news, i.e., to predict the popularity based on the number of shares in social networks by using machine learning models. We define it as a multi-class classification problem.
+
+## Project8-Bank-Marketing
+### Topic: Bank Marketing for Term Deposit Subscriptin
+**Project group member: Chen Yiqiu, Hu Xinjie, Lee Hui Gek Judy, Wang Huijuan, Qu Mingyu**
+
+In this project, we aim to develop a classification model for a Portuguese bank on which customers contacted by the bank’s telemarketers would subscribe to the bank’s term deposit products.
